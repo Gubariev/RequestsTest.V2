@@ -40,7 +40,6 @@ namespace RequestsTest
                     catch (Exception e)
                     {
 
-                        Console.WriteLine(item + " - " + e.Message);
                     }
 
                 }
